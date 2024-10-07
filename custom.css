@@ -1,0 +1,8 @@
+/* Кастомний курсор з меншою PNG */
+body, html {
+    cursor: url('https://static.tildacdn.com/tild3337-3330-4663-b436-333437616563/photo.png'), auto;
+}
+
+.clickbuttoncopy {
+    cursor: pointer; /* Изменение курсора на указатель */
+}
